@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development**
 
-- 👨‍💻 All of my projects are available at [https://rahul-kumar-portfolio-25.netlify.app/](https://rahul-kumar-portfolio-25.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://github.com/Rahul850kr](https://github.com/Rahul850kr)
 
 - 💬 Ask me about **React , Express , MongoDb , NodeJS**
 
