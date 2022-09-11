@@ -1,4 +1,4 @@
-[![MasterHead](https://img.freepik.com/premium-vector/young-programmer-code-client-projects-developer-writing-program-code-flat-vector_530733-1137.jpg?w=2000)](https://github.com/Rahul850kr)
+
 <h2 align="center">A passionate full stack developer from India</h2>
 <img align="right" alt="coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif" />
 
