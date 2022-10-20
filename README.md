@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **rahul850kr@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1Pp-wJIB9X5GrJsChIwR3EncoDTFRW1Nk/view?usp=sharing](https://drive.google.com/file/d/1Pp-wJIB9X5GrJsChIwR3EncoDTFRW1Nk/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1MZsQNH9LX3GykXDi95zm6RQGS8cRl_GE/view?usp=sharing)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
